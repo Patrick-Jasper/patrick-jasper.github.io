@@ -1,5 +1,7 @@
 body {
   background-color: Thistle;
+/*  border: 2px solid Gray;
+  border-radius: 16px;
   font-family: sans-serif;
   margin-left: auto;
   margin-right: auto;
@@ -8,7 +10,7 @@ body {
   padding-top: 8px;
   padding-bottom: 24px;
   padding-left: 24px;
-  padding-right: 24px;
+  padding-right: 24px;*/
 }
 
 html {
