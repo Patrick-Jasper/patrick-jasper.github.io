@@ -52,7 +52,7 @@ p.top-tip {
 }
 
 p.top-tip::before {
-  color: Black;
+  color: Orange;
   content: "Mega Tip: ";
   font-weight: bold;
 }
