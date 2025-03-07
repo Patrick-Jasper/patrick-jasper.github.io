@@ -24,6 +24,14 @@ nav ul li a {
   color: #111111;
 }
 
+nav li.selected {
+  color: #606060;
+}
+
+nav li a:hover {
+  text-decoration: underline;
+}
+
 body {
   background-color: Thistle;
   border: 2px solid Gray;
