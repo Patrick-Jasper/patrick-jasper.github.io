@@ -53,6 +53,6 @@ p.top-tip {
 
 p.top-tip::before {
   color: Black;
-  content: "TOP TIP: ";
+  content: "Mega Tip: ";
   font-weight: bold;
 }
