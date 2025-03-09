@@ -126,7 +126,6 @@ html {
 /* header */
 
 header {
-  background-color: #F45556;
 }
 
 header p {
@@ -244,7 +243,7 @@ body, section, img {
   aside {
     float: left;
     padding-left: 24px;
-    
+
     width: 34%;
   }
 
