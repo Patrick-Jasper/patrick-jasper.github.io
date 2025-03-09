@@ -84,3 +84,9 @@ th {
 td {
   background-color:#BA99C0;
 }
+
+p.app {
+  color: Orange;
+  border-radius: 8px;
+  font-weight: bold;
+}
