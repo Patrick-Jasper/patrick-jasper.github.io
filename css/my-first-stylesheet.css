@@ -86,7 +86,7 @@ td {
 }
 
 p.app {
-  color: Orange;
+  background-color: Orange;
   border-radius: 8px;
   font-weight: bold;
 }
