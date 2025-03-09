@@ -227,7 +227,7 @@ img.medium {
 
 /* large images are 100% of the container element's width */
 img.large {
-  width: 100px;
+  width: 100%;
 }
 
 /* add the same style of border to the elements which are to have borders */
