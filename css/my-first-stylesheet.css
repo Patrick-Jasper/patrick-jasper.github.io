@@ -188,7 +188,6 @@ section {
 /* the aside */
 
 aside {
-  background-color: #1EADDF;
 }
 
 /* footer */
@@ -224,7 +223,8 @@ img.medium {
 
 /* large images are 100% of the container element's width */
 img.large {
-  width: 100%;
+  width: 100%
+  background-color: White;
 }
 
 /* add the same style of border to the elements which are to have borders */
