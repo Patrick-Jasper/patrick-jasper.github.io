@@ -244,7 +244,8 @@ body, section, img {
   aside {
     float: left;
     padding-left: 24px;
-    width: 34px;
+    
+    width: 34%;
   }
 
   footer {
